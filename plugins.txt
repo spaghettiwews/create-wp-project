@@ -1,0 +1,5 @@
+https://downloads.wordpress.org/plugin/advanced-custom-fields.5.8.1.zip
+https://downloads.wordpress.org/plugin/classic-editor.1.5.zip
+https://downloads.wordpress.org/plugin/disable-comments.zip
+https://downloads.wordpress.org/plugin/duplicate-post.3.2.2.zip
+https://downloads.wordpress.org/plugin/delightful-downloads.1.6.6.zip
