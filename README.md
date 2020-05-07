@@ -1,4 +1,3 @@
-# create-wp-project
 A shell script to quickly download WordPress, underscores starter theme, and plugins that I need and use on a regular in my WordPress projects.
 
 ## Usage
